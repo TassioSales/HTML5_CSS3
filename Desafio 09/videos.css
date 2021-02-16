@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+}
+h1{
+    font-family:Arial;
+    font-size:45px;
+    text-align: center;
+    color: white;
+    text-transform: uppercase;
+}
+iframe{
+    margin:0 auto;
+    display: block;
+}
+
+a{
+    text-align: center;
+    font-size: 30px;
+    text-decoration: none;
+    color: white;
+    display: block;
+}
+img{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+table{
+    margin: auto;
+}
